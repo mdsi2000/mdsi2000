@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...multivalue, pick basic programming
 - 🌱 I’m currently learning ... Accuterm framework and Vue3
 - 💞️ I’m looking to collaborate on ...Accuterm by Zumasys projects
-- 📫 How to reach me ... mdsi2000@yahoo.com
+- 📫 How to reach me ... mdsi2000@yahoo.com or mdsi2060@gmail.  I respond quicker in yahoo.com
 
 <!---
 mdsi2000/mdsi2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
